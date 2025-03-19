@@ -36,5 +36,6 @@ Design Considerations
 Monolithic Design:
 
 The program currently uses a monolithic structure where multiple responsibilities (movement logic, simulation, user input) are combined in a single file, making the code harder to maintain and extend.
+
 Thanks
 Shimna
